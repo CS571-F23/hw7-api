@@ -1,0 +1,32 @@
+[
+    {
+        "name": "cupcake",
+        "price": 1.50,
+        "imgSrc": "https://raw.githubusercontent.com/CS571-F23/hw7-api-static-content/main/goods/cupcake-1.jpg",
+        "upperLimit": 12
+    },
+    {
+        "name": "cake",
+        "price": 5.50,
+        "imgSrc": "https://raw.githubusercontent.com/CS571-F23/hw7-api-static-content/main/goods/cake.jpg",
+        "upperLimit": 4
+    },
+    {
+        "name": "donut",
+        "price": 1.00,
+        "imgSrc": "https://raw.githubusercontent.com/CS571-F23/hw7-api-static-content/main/goods/donut.jpg",
+        "upperLimit": 24
+    },
+    {
+        "name": "cupcake",
+        "price": 1.50,
+        "imgSrc": "https://raw.githubusercontent.com/CS571-F23/hw7-api-static-content/main/goods/cupcake-2.jpg",
+        "upperLimit": 12
+    },
+    {
+        "name": "cookie",
+        "price": 0.75,
+        "imgSrc": "https://raw.githubusercontent.com/CS571-F23/hw7-api-static-content/main/goods/cookie.jpg",
+        "upperLimit": -1
+    }
+]
